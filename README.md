@@ -11,6 +11,10 @@
 .SetUp ROLE_NAME CHANNEL_ID PREFIX STAR_REQUIREMENT FAME_REQUIREMENT MAXED_CHARS_REQUIREMENT HIDDEN_LOCATION
 ```
 In my case
-```
+```bash
 .SetUp "TEST" 464452321875853317 . 30 1000 1 true
 ```
+
+*If u ever manage to forget prefix just do
+  - ```bash
+  !Help```
