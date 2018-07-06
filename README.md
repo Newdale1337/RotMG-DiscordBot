@@ -15,6 +15,7 @@ In my case
 .SetUp "TEST" 464452321875853317 . 30 1000 1 true
 ```
 Will do something like:
+
 ![Demo of Bot](https://image.prntscr.com/image/37JmQUQkT8iFVsnbsYjUfw.png)
 
 # If u ever manage to forget prefix just do
