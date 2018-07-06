@@ -15,6 +15,6 @@ In my case
 .SetUp "TEST" 464452321875853317 . 30 1000 1 true
 ```
 
-*If u ever manage to forget prefix just do
-  - ```bash
+*If u ever manage to forget prefix just do*
+- ```bash
   !Help```
