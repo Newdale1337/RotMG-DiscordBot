@@ -16,5 +16,5 @@ In my case
 ```
 
 *If u ever manage to forget prefix just do*
-- ```bash
+```bash
   !Help```
