@@ -12,7 +12,7 @@
 ```
 In my case
 ```bash
-.SetUp "TEST" 464452321875853317 . 30 1000 1 true
+.SetUp "TEST" 464452321875853317 0x 30 1000 1 true
 ```
 Will do something like:
 
