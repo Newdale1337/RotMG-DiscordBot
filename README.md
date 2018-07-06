@@ -23,3 +23,6 @@ Will do something like:
 ```bash
   !Help
   ```
+  Returns:
+  
+  ![Demo of Return](https://image.prntscr.com/image/PKPMdNXYQf2sPk9Y3aOrvg.png)
